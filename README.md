@@ -1,2 +1,2 @@
-# JavaCICDApps
+# JavaApps
 Java application development 
